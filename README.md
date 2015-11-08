@@ -21,7 +21,7 @@ sudo launchctl start homebrew.mxcl.dovecot
 vi config/conf.d/auth-static.conf.ext
 ```
 
-## copy config
+### copy config
 ```
 cp ./config/* /usr/local/etc/dovecot/
 cp ./config/conf.d/* /usr/local/etc/dovecot/conf.d/
