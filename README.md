@@ -6,7 +6,7 @@ static で認証します。
 
 ## Installation bin/dovecot
 ```
-home install dovecot
+brew install dovecot
 ```
 ### start & stop
 ```
